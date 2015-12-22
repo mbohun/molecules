@@ -240,7 +240,7 @@
       <line x1="352.94" x2="370.15" y1="142.60" y2="152.53"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="307.23" x2="284.30" y1="135.75" y2="148.99"/>
+      <line x1="307.23" x2="295.00" y1="135.75" y2="142.81"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="398.93" x2="398.93" y1="197.00" y2="215.12"/>
@@ -274,6 +274,7 @@
     </g>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="393.30" y="193.65">O</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="301.30" y="114.28">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="278.30" y="153.99">Cl</text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -585,14 +586,14 @@
       <atom id="atom43416" name="C" valency="4">
         <point x="8.125cm" y="3.590cm"/>
       </atom>
-      <atom id="atom48369" name="C" valency="4">
-        <point x="7.519cm" y="3.940cm"/>
-      </atom>
       <atom id="atom80209" name="O" pos="center-last" valency="2">
         <point x="8.125cm" y="2.890cm"/>
       </atom>
+      <atom id="atom52767" name="Cl" pos="center-first" valency="1">
+        <point x="7.519cm" y="3.940cm"/>
+      </atom>
       <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom66865" id="bond38657" line_width="1.0" start="atom8968" type="n2"/>
-      <bond double_ratio="0.75" end="atom48369" id="bond35629" line_width="1.0" start="atom43416" type="n1"/>
+      <bond double_ratio="0.75" end="atom52767" id="bond35629" line_width="1.0" start="atom43416" type="n1"/>
       <bond double_ratio="0.75" end="atom898" id="bond48144" line_width="1.0" start="atom73583" type="n1"/>
       <bond double_ratio="0.75" end="atom73583" id="bond58236" line_width="1.0" start="atom89044" type="n1"/>
       <bond double_ratio="0.75" end="atom89044" id="bond83283" line_width="1.0" start="atom66865" type="n1"/>
