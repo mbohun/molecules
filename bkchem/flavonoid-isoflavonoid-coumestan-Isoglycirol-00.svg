@@ -211,8 +211,8 @@
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="530.30" y="55.22">O</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="393.30" y="53.63">O</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="437.30" y="133.57">O</text>
-    <text fill="#000000" font-family="helvetica" font-size="8pt" textLength="175" x="453.00" y="222.25"><tspan font-weight="bold">Isoglycycoumarin <tspan font-style="italic">(Glycyrrhiza sp.)</tspan></tspan></text>
-    <text fill="#000000" font-family="helvetica" font-size="8pt" textLength="137" x="148.00" y="222.25"><tspan font-weight="bold">Isoglycirol <tspan font-style="italic">(Glycyrrhiza sp.)</tspan></tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="10pt" textLength="213" x="419.00" y="224.00"><tspan font-weight="bold">Isoglycycoumarin <tspan font-style="italic">(Glycyrrhiza sp.)</tspan></tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="10pt" textLength="168" x="119.00" y="223.00"><tspan font-weight="bold">Isoglycirol <tspan font-style="italic">(Glycyrrhiza sp.)</tspan></tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -452,7 +452,7 @@
       <bond double_ratio="0.75" end="atom68622" id="bond24246" line_width="1.0" start="atom58892" type="n1"/>
       <bond double_ratio="0.75" end="atom54525" id="bond26827" line_width="1.0" start="atom95833" type="n1"/>
     </molecule>
-    <text id="text62061"><font family="helvetica" size="8"/><point x="11.980cm" y="5.765cm"/><ftext>&lt;b&gt;Isoglycycoumarin&lt;/b&gt; &lt;i&gt;(Glycyrrhiza sp.)&lt;/i&gt;</ftext></text>
-    <text id="text25496"><font family="helvetica" size="8"/><point x="3.914cm" y="5.765cm"/><ftext>&lt;b&gt;Isoglycirol&lt;/b&gt; &lt;i&gt;(Glycyrrhiza sp.)&lt;/i&gt;</ftext></text>
+    <text id="text62061"><font family="helvetica" size="10"/><point x="11.107cm" y="5.792cm"/><ftext>&lt;b&gt;Isoglycycoumarin&lt;/b&gt; &lt;i&gt;(Glycyrrhiza sp.)&lt;/i&gt;</ftext></text>
+    <text id="text25496"><font family="helvetica" size="10"/><point x="3.174cm" y="5.765cm"/><ftext>&lt;b&gt;Isoglycirol&lt;/b&gt; &lt;i&gt;(Glycyrrhiza sp.)&lt;/i&gt;</ftext></text>
   </cdml>
 </svg>
