@@ -10,6 +10,8 @@ PROGRAM_NAME="`basename ${0}`"
 TMP_WORK_DIR=`mktemp -d /tmp/${PROGRAM_NAME}.XXXXXX`
 echo $TMP_WORK_DIR
 
+BKCHEM_GIT_SHA=`git log -n1 --format=format:%H bkchem`
+
 mogrify -path $TMP_WORK_DIR -format png -background white bkchem/*.svg
 #ls -lahF $TMP_WORK_DIR
 
@@ -24,6 +26,9 @@ echo '    <body style="background-color:#000000">' >> $INDEX_HTML
 echo '    <a href="https://github.com/mbohun/molecules" style="color:#ffffff">' >> $INDEX_HTML
 echo '        <h1 style="color:#ffffff">mbohun.github.io/molecules</h1>' >> $INDEX_HTML
 echo '    </a>' >> $INDEX_HTML
+echo '    <a href="https://github.com/mbohun/molecules/tree/${BKCHEM_GIT_SHA}/bkchem" style="color:#ffffff">' >> $INDEX_HTML
+echo '        <h3 style="color:#ffffff">${BKCHEM_GIT_SHA}</h3>' >> $INDEX_HTML
+echo '    </a>' >> $INDEX_HTML
 for img in `ls $TMP_WORK_DIR/*.png`
 do
     b_img=`basename $img`
@@ -32,8 +37,6 @@ done
 
 echo '    </body>' >> $INDEX_HTML
 echo '</html>' >> $INDEX_HTML
-
-BKCHEM_GIT_SHA=`git log -n1 --format=format:%H bkchem`
 
 git checkout gh-pages
 
