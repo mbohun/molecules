@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 #
 # NOTE: this script can be installed:
 #       - as a commit hook, or
@@ -28,7 +30,16 @@ done
 echo '    </body>' >> $INDEX_HTML
 echo '</html>' >> $INDEX_HTML
 
-# git checkout -b gh-pages
+git checkout gh-pages
+
+git rm -r thumbs *.png index.html
+cp -r $TMP_WORK_DIR/* .
+git add .
+
+git commit -m"AUTO: regenerated branch gh-pages from master (HASH)."
+git push --set-upstream origin gh-pages
+
+git checkout master
 
 # cleanup
 #rm -rf $TMP_WORK_DIR
