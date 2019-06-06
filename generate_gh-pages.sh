@@ -21,6 +21,9 @@ mogrify  -path $TMP_WORK_DIR/thumbs -format png  -thumbnail 25% $TMP_WORK_DIR/*.
 INDEX_HTML=$TMP_WORK_DIR/index.html
 echo '<html>' > $INDEX_HTML
 echo '    <body style="background-color:#000000">' >> $INDEX_HTML
+echo '        <a href="https://github.com/mbohun/molecules" style="color:#ffffff">' >> $INDEX_HTML
+echo '            <h1 style="color:#ffffff">mbohun.github.io/molecules</h1>' >> $INDEX_HTML
+echo '        </a>' >> $INDEX_HTML
 for img in `ls $TMP_WORK_DIR/*.png`
 do
     b_img=`basename $img`
@@ -30,13 +33,15 @@ done
 echo '    </body>' >> $INDEX_HTML
 echo '</html>' >> $INDEX_HTML
 
+BKCHEM_GIT_SHA=`git log -n1 --format=format:%H bkchem`
+
 git checkout gh-pages
 
 git rm -r thumbs *.png index.html
 cp -r $TMP_WORK_DIR/* .
 git add .
 
-git commit -m"AUTO: regenerated branch gh-pages from master (HASH)."
+git commit -m"AUTO: regenerated branch gh-pages from master (${BKCHEM_GIT_SHA})."
 git push --set-upstream origin gh-pages
 
 git checkout master
