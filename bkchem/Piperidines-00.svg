@@ -131,6 +131,10 @@
       <line x1="318.55" x2="320.76" y1="49.23" y2="53.06"/>
     </g>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="271.30" y="52.29">NH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="102" x="77.00" y="52.75"><tspan font-weight="bold">Solenopsin A</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="116" x="472.00" y="160.75"><tspan font-weight="bold">Euglenophycin</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="10pt" textLength="105" x="76.00" y="71.00"><tspan font-style="italic">Solenopsis invicta</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="10pt" textLength="110" x="473.00" y="180.00"><tspan font-style="italic">Euglena sanguinea</tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -307,5 +311,9 @@
       <bond double_ratio="0.75" end="atom67357" id="bond80418" line_width="1.0" start="atom7131" type="n1"/>
       <bond double_ratio="0.75" end="atom72263" id="bond42262" line_width="1.0" start="atom31907" type="h1" wedge_width="5.0"/>
     </molecule>
+    <text id="text47077"><point x="2.169cm" y="1.269cm"/><ftext>&lt;b&gt;Solenopsin A&lt;/b&gt;</ftext></text>
+    <text id="text20784"><point x="12.588cm" y="4.125cm"/><ftext>&lt;b&gt;Euglenophycin&lt;/b&gt;</ftext></text>
+    <text id="text74891"><font family="helvetica" size="10"/><point x="2.089cm" y="1.772cm"/><ftext>&lt;i&gt;Solenopsis invicta&lt;/i&gt;</ftext></text>
+    <text id="text35921"><font family="helvetica" size="10"/><point x="12.614cm" y="4.654cm"/><ftext>&lt;i&gt;Euglena sanguinea&lt;/i&gt;</ftext></text>
   </cdml>
 </svg>
