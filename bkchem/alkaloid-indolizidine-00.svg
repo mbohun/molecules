@@ -59,6 +59,9 @@
       <line x1="274.70" x2="252.21" y1="143.07" y2="130.37"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
+      <line x1="252.21" x2="251.95" y1="130.37" y2="104.53"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
       <line x1="296.21" x2="298.00" y1="100.21" y2="100.38"/>
       <line x1="296.17" x2="298.76" y1="96.35" y2="96.59"/>
       <line x1="296.13" x2="299.52" y1="92.49" y2="92.81"/>
@@ -66,16 +69,13 @@
       <line x1="296.06" x2="301.04" y1="84.76" y2="85.24"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="296.89" x2="296.74" y1="121.00" y2="104.12"/>
+      <polygon fill="#000000" points="252.47 130.80 238.27 141.51 235.73 137.20 251.96 129.94" stroke="#000000"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="354.23" x2="371.69" y1="65.68" y2="84.74"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="321.22" x2="336.62" y1="95.92" y2="116.67"/>
-    </g>
-    <g stroke="#000000" stroke-width="1.0">
-      <line x1="321.63" x2="304.00" y1="137.72" y2="132.18"/>
-    </g>
-    <g stroke="#000000" stroke-width="1.0">
-      <line x1="290.00" x2="274.70" y1="134.06" y2="143.07"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="352.32" x2="357.92" y1="65.08" y2="47.40"/>
@@ -85,7 +85,7 @@
       <polygon fill="#000000" points="320.74 95.77 324.50 77.25 329.27 78.75 321.70 96.07" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="252.47 130.80 238.27 141.51 235.73 137.20 251.96 129.94" stroke="#000000"/>
+      <line x1="296.89" x2="296.74" y1="121.00" y2="104.12"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="296.74" x2="321.22" y1="104.12" y2="95.92"/>
@@ -97,13 +97,13 @@
       <line x1="336.62" x2="321.63" y1="116.67" y2="137.72"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="354.23" x2="371.69" y1="65.68" y2="84.74"/>
+      <line x1="321.63" x2="304.00" y1="137.72" y2="132.18"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="274.22" x2="296.74" y1="91.42" y2="104.12"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="252.21" x2="251.95" y1="130.37" y2="104.53"/>
+      <line x1="290.00" x2="274.70" y1="134.06" y2="143.07"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="336.00" x2="354.23" y1="69.71" y2="65.68"/>
@@ -178,6 +178,72 @@
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="211.30" y="291.74">HO</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="212.30" y="343.44">HO</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="126" x="212.00" y="375.75"><tspan>Castanospermine</tspan></text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="588.62" x2="573.63" y1="116.17" y2="137.22"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="504.21" x2="503.95" y1="129.87" y2="104.03"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="548.74" x2="573.22" y1="103.62" y2="95.42"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="526.70" x2="504.21" y1="142.57" y2="129.87"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="548.21" x2="550.00" y1="99.71" y2="99.88"/>
+      <line x1="548.17" x2="550.76" y1="95.85" y2="96.09"/>
+      <line x1="548.13" x2="551.52" y1="91.99" y2="92.31"/>
+      <line x1="548.10" x2="552.28" y1="88.13" y2="88.52"/>
+      <line x1="548.06" x2="553.04" y1="84.26" y2="84.74"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <polygon fill="#000000" points="572.74 95.27 576.50 76.75 581.27 78.25 573.70 95.57" stroke="#000000"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="548.89" x2="548.74" y1="120.50" y2="103.62"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="573.22" x2="588.62" y1="95.42" y2="116.17"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="588.00" x2="606.23" y1="69.21" y2="65.18"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="606.23" x2="623.69" y1="65.18" y2="84.24"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="573.63" x2="556.00" y1="137.22" y2="131.68"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="542.00" x2="526.70" y1="133.56" y2="142.57"/>
+      <line x1="537.04" x2="525.57" y1="129.52" y2="136.28"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="604.32" x2="609.92" y1="64.58" y2="46.90"/>
+      <line x1="608.14" x2="613.73" y1="65.79" y2="48.10"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="505.23" x2="490.02" y1="131.59" y2="140.57"/>
+      <line x1="503.20" x2="487.98" y1="128.15" y2="137.13"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="526.22" x2="548.74" y1="90.92" y2="103.62"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="503.95" x2="526.22" y1="104.03" y2="90.92"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="543.30" y="133.46">N</text>
+    <g>
+      <ellipse cx="550.742640625" cy="143.965" fill="none" rx="5.0" ry="5.0" stroke="#000" stroke-width="1"/>
+      <line fill="#000" stroke="#000" stroke-width="1" x1="547.742640625" x2="553.742640625" y1="143.965" y2="143.965"/>
+      <line fill="#000" stroke="#000" stroke-width="1" x1="550.742640625" x2="550.742640625" y1="140.965" y2="146.965"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="575.30" y="74.76">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="545.30" y="81.89">H</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="608.30" y="44.56">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="476.30" y="147.01">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="245" x="460.00" y="201.49"><tspan>ketoimine metabolite of Slaframine</tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -292,20 +358,20 @@
         <point x="9.805cm" y="1.112cm"/>
       </atom>
       <bond double_ratio="0.75" end="atom49559" id="bond42722" line_width="1.0" start="atom6966" type="n1"/>
+      <bond double_ratio="0.75" end="atom49991" id="bond43712" line_width="1.0" start="atom49559" type="n1"/>
       <bond double_ratio="0.75" end="atom31246" id="bond12214" line_width="1.0" start="atom85865" type="h1" wedge_width="5.0"/>
-      <bond double_ratio="0.75" end="atom85865" id="bond39456" line_width="1.0" start="atom60485" type="n1"/>
+      <bond double_ratio="0.75" end="atom68752" id="bond81066" line_width="1.0" start="atom49559" type="w1" wedge_width="5.0"/>
+      <bond double_ratio="0.75" end="atom72344" id="bond49104" line_width="1.0" start="atom89174" type="n1"/>
       <bond double_ratio="0.75" end="atom26838" id="bond12581" line_width="1.0" start="atom88011" type="n1"/>
-      <bond double_ratio="0.75" end="atom60485" id="bond79548" line_width="1.0" start="atom49665" type="n1"/>
-      <bond double_ratio="0.75" end="atom6966" id="bond86834" line_width="1.0" start="atom60485" type="n1"/>
       <bond bond_width="6.0" center="yes" double_ratio="0.75" end="atom66629" id="bond67409" line_width="1.0" start="atom89174" type="n2"/>
       <bond double_ratio="0.75" end="atom86009" id="bond41802" line_width="1.0" start="atom88011" type="w1" wedge_width="5.0"/>
-      <bond double_ratio="0.75" end="atom68752" id="bond81066" line_width="1.0" start="atom49559" type="w1" wedge_width="5.0"/>
+      <bond double_ratio="0.75" end="atom85865" id="bond39456" line_width="1.0" start="atom60485" type="n1"/>
       <bond double_ratio="0.75" end="atom88011" id="bond96316" line_width="1.0" start="atom85865" type="n1"/>
       <bond double_ratio="0.75" end="atom17192" id="bond31323" line_width="1.0" start="atom49991" type="n1"/>
       <bond double_ratio="0.75" end="atom49665" id="bond30820" line_width="1.0" start="atom26838" type="n1"/>
-      <bond double_ratio="0.75" end="atom72344" id="bond49104" line_width="1.0" start="atom89174" type="n1"/>
+      <bond double_ratio="0.75" end="atom60485" id="bond79548" line_width="1.0" start="atom49665" type="n1"/>
       <bond double_ratio="0.75" end="atom85865" id="bond25103" line_width="1.0" start="atom17192" type="n1"/>
-      <bond double_ratio="0.75" end="atom49991" id="bond43712" line_width="1.0" start="atom49559" type="n1"/>
+      <bond double_ratio="0.75" end="atom6966" id="bond86834" line_width="1.0" start="atom60485" type="n1"/>
       <bond double_ratio="0.75" end="atom89174" id="bond17583" line_width="1.0" start="atom86009" type="n1"/>
     </molecule>
     <text id="text38197"><point x="0.608cm" y="5.342cm"/><ftext>Swainsonine</ftext></text>
@@ -370,5 +436,70 @@
       <bond double_ratio="0.75" end="atom44076" id="bond61382" line_width="1.0" start="atom30156" type="w1" wedge_width="5.0"/>
     </molecule>
     <text id="text54351"><point x="5.877cm" y="10.048cm"/><ftext>Castanospermine</ftext></text>
+    <molecule id="molecule14179" name="">
+      <atom id="atom77521" name="C" valency="4">
+        <point x="13.656cm" y="3.517cm"/>
+      </atom>
+      <atom id="atom88947" name="C" valency="4">
+        <point x="13.649cm" y="2.817cm"/>
+      </atom>
+      <atom id="atom58985" name="C" valency="4">
+        <point x="14.252cm" y="2.462cm"/>
+      </atom>
+      <atom id="atom64241" name="C" valency="4">
+        <point x="14.862cm" y="2.806cm"/>
+      </atom>
+      <atom id="atom80734" name="C" valency="4">
+        <point x="15.525cm" y="2.584cm"/>
+      </atom>
+      <atom id="atom84675" name="C" valency="4">
+        <point x="15.942cm" y="3.146cm"/>
+      </atom>
+      <atom id="atom49543" name="C" valency="4">
+        <point x="15.536cm" y="3.716cm"/>
+      </atom>
+      <atom charge="1" id="atom51897" name="N" pos="center-first" valency="3">
+        <point x="14.868cm" y="3.506cm"/>
+        <mark auto="1" draw_circle="yes" size="10" type="plus" x="14.916cm" y="3.899cm"/>
+      </atom>
+      <atom id="atom94736" name="C" valency="4">
+        <point x="14.265cm" y="3.861cm"/>
+      </atom>
+      <atom id="atom65141" name="O" pos="center-first" valency="2">
+        <point x="15.736cm" y="1.916cm"/>
+      </atom>
+      <atom id="atom53558" name="H" pos="center-first" valency="1">
+        <point x="14.928cm" y="2.109cm"/>
+      </atom>
+      <atom id="atom30201" name="C" valency="4">
+        <point x="16.419cm" y="1.765cm"/>
+      </atom>
+      <atom id="atom47445" name="C" valency="4">
+        <point x="16.892cm" y="2.281cm"/>
+      </atom>
+      <atom id="atom66464" name="O" pos="center-first" valency="2">
+        <point x="16.630cm" y="1.098cm"/>
+      </atom>
+      <atom id="atom42846" name="O" pos="center-first" valency="2">
+        <point x="13.053cm" y="3.873cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom49543" id="bond39358" line_width="1.0" start="atom84675" type="n1"/>
+      <bond double_ratio="0.75" end="atom88947" id="bond92697" line_width="1.0" start="atom77521" type="n1"/>
+      <bond double_ratio="0.75" end="atom80734" id="bond32720" line_width="1.0" start="atom64241" type="n1"/>
+      <bond double_ratio="0.75" end="atom77521" id="bond40842" line_width="1.0" start="atom94736" type="n1"/>
+      <bond double_ratio="0.75" end="atom53558" id="bond6844" line_width="1.0" start="atom64241" type="h1" wedge_width="5.0"/>
+      <bond double_ratio="0.75" end="atom65141" id="bond84010" line_width="1.0" start="atom80734" type="w1" wedge_width="5.0"/>
+      <bond double_ratio="0.75" end="atom64241" id="bond27338" line_width="1.0" start="atom51897" type="n1"/>
+      <bond double_ratio="0.75" end="atom84675" id="bond90248" line_width="1.0" start="atom80734" type="n1"/>
+      <bond double_ratio="0.75" end="atom30201" id="bond24756" line_width="1.0" start="atom65141" type="n1"/>
+      <bond double_ratio="0.75" end="atom47445" id="bond90672" line_width="1.0" start="atom30201" type="n1"/>
+      <bond double_ratio="0.75" end="atom51897" id="bond42802" line_width="1.0" start="atom49543" type="n1"/>
+      <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom94736" id="bond46961" line_width="1.0" start="atom51897" type="n2"/>
+      <bond bond_width="6.0" center="yes" double_ratio="0.75" end="atom66464" id="bond25873" line_width="1.0" start="atom30201" type="n2"/>
+      <bond bond_width="6.0" center="yes" double_ratio="0.75" end="atom42846" id="bond90819" line_width="1.0" start="atom77521" type="n2"/>
+      <bond double_ratio="0.75" end="atom64241" id="bond55748" line_width="1.0" start="atom58985" type="n1"/>
+      <bond double_ratio="0.75" end="atom58985" id="bond71566" line_width="1.0" start="atom88947" type="n1"/>
+    </molecule>
+    <text id="text43048"><point x="12.537cm" y="5.329cm"/><ftext>ketoimine metabolite of Slaframine</ftext></text>
   </cdml>
 </svg>
