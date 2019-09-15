@@ -1,354 +1,354 @@
 <?xml version="1.0" ?><svg height="297.000000mm" version="1.0" viewBox="0 0 793 1122" width="210.000000mm" xmlns="http://www.w3.org/2000/svg">
   <g font-family="Helvetica" font-size="12pt" stroke-linecap="round">
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="163.67 103.72 190.13 101.72 190.13 106.72 163.67 104.72" stroke="#000000"/>
+      <polygon fill="#000000" points="163.67 405.72 190.13 403.72 190.13 408.72 163.67 406.72" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="54.25" x2="77.16" y1="77.77" y2="64.54"/>
+      <line x1="54.25" x2="77.16" y1="379.77" y2="366.54"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="77.42 117.86 55.50 132.82 53.00 128.49 76.92 116.99" stroke="#000000"/>
+      <polygon fill="#000000" points="77.42 419.86 55.50 434.82 53.00 430.49 76.92 418.99" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="73.49" x2="74.39" y1="116.34" y2="114.78"/>
-      <line x1="70.05" x2="71.35" y1="114.82" y2="112.57"/>
-      <line x1="66.62" x2="68.32" y1="113.30" y2="110.35"/>
-      <line x1="63.18" x2="65.28" y1="111.77" y2="108.14"/>
-      <line x1="59.75" x2="62.25" y1="110.25" y2="105.92"/>
+      <line x1="73.49" x2="74.39" y1="418.34" y2="416.78"/>
+      <line x1="70.05" x2="71.35" y1="416.82" y2="414.57"/>
+      <line x1="66.62" x2="68.32" y1="415.30" y2="412.35"/>
+      <line x1="63.18" x2="65.28" y1="413.77" y2="410.14"/>
+      <line x1="59.75" x2="62.25" y1="412.25" y2="407.92"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.17" x2="77.16" y1="91.00" y2="64.54"/>
+      <line x1="77.17" x2="77.16" y1="393.00" y2="366.54"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="166.08" x2="164.68" y1="107.23" y2="107.94"/>
-      <line x1="168.06" x2="166.15" y1="110.47" y2="111.44"/>
-      <line x1="170.03" x2="167.61" y1="113.71" y2="114.94"/>
-      <line x1="172.00" x2="169.07" y1="116.94" y2="118.44"/>
-      <line x1="173.97" x2="170.53" y1="120.18" y2="121.93"/>
-      <line x1="175.94" x2="171.99" y1="123.42" y2="125.43"/>
-      <line x1="177.91" x2="173.45" y1="126.66" y2="128.93"/>
+      <line x1="166.08" x2="164.68" y1="409.23" y2="409.94"/>
+      <line x1="168.06" x2="166.15" y1="412.47" y2="413.44"/>
+      <line x1="170.03" x2="167.61" y1="415.71" y2="416.94"/>
+      <line x1="172.00" x2="169.07" y1="418.94" y2="420.44"/>
+      <line x1="173.97" x2="170.53" y1="422.18" y2="423.93"/>
+      <line x1="175.94" x2="171.99" y1="425.42" y2="427.43"/>
+      <line x1="177.91" x2="173.45" y1="428.66" y2="430.93"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="148.13" x2="163.67" y1="82.83" y2="104.22"/>
+      <line x1="148.13" x2="163.67" y1="384.83" y2="406.22"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.17" x2="100.09" y1="117.43" y2="130.66"/>
+      <line x1="77.17" x2="100.09" y1="419.43" y2="432.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="147.65 82.67 151.54 64.23 156.30 65.77 148.60 82.98" stroke="#000000"/>
+      <polygon fill="#000000" points="147.65 384.67 151.54 366.23 156.30 367.77 148.60 384.98" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.00" x2="100.09" y1="117.43" y2="130.66"/>
+      <line x1="123.00" x2="100.09" y1="419.43" y2="432.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="148.13" x2="123.00" y1="125.59" y2="117.43"/>
-      <line x1="146.85" x2="128.00" y1="118.86" y2="112.74"/>
+      <line x1="148.13" x2="123.00" y1="427.59" y2="419.43"/>
+      <line x1="146.85" x2="128.00" y1="420.86" y2="414.74"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.17" x2="54.25" y1="91.00" y2="77.77"/>
+      <line x1="77.17" x2="54.25" y1="393.00" y2="379.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="100.09" x2="123.00" y1="77.76" y2="91.00"/>
-      <line x1="99.95" x2="117.13" y1="84.61" y2="94.54"/>
+      <line x1="100.09" x2="123.00" y1="379.76" y2="393.00"/>
+      <line x1="99.95" x2="117.13" y1="386.61" y2="396.54"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.17" x2="77.17" y1="91.00" y2="117.43"/>
+      <line x1="77.17" x2="77.17" y1="393.00" y2="419.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.17" x2="100.09" y1="91.00" y2="77.76"/>
+      <line x1="77.17" x2="100.09" y1="393.00" y2="379.76"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.00" x2="123.00" y1="91.00" y2="117.43"/>
+      <line x1="123.00" x2="123.00" y1="393.00" y2="419.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.00" x2="148.13" y1="91.00" y2="82.83"/>
+      <line x1="123.00" x2="148.13" y1="393.00" y2="384.83"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="163.67" x2="148.13" y1="104.22" y2="125.59"/>
+      <line x1="163.67" x2="148.13" y1="406.22" y2="427.59"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="100.09" x2="100.09" y1="77.76" y2="51.30"/>
+      <line x1="100.09" x2="100.09" y1="379.76" y2="353.30"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="102.09" x2="102.09" y1="130.66" y2="147.00"/>
-      <line x1="98.09" x2="98.09" y1="130.66" y2="147.00"/>
+      <line x1="102.09" x2="102.09" y1="432.66" y2="449.00"/>
+      <line x1="98.09" x2="98.09" y1="432.66" y2="449.00"/>
     </g>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="94.30" y="162.13">O</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="36.30" y="109.19">HO</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="150.30" y="62.66">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="94.30" y="464.13">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="36.30" y="411.19">HO</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="150.30" y="364.66">OH</text>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="122.98" x2="122.98" y1="241.00" y2="267.43"/>
+      <line x1="122.98" x2="122.98" y1="543.00" y2="569.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="148.12" x2="122.98" y1="275.59" y2="267.43"/>
-      <line x1="146.83" x2="127.98" y1="268.86" y2="262.74"/>
+      <line x1="148.12" x2="122.98" y1="577.59" y2="569.43"/>
+      <line x1="146.83" x2="127.98" y1="570.86" y2="564.74"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.16" x2="54.25" y1="241.00" y2="227.77"/>
+      <line x1="77.16" x2="54.25" y1="543.00" y2="529.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.16" x2="77.16" y1="241.00" y2="214.53"/>
+      <line x1="77.16" x2="77.16" y1="543.00" y2="516.53"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="166.08" x2="164.68" y1="257.24" y2="257.95"/>
-      <line x1="168.05" x2="166.14" y1="260.47" y2="261.45"/>
-      <line x1="170.02" x2="167.61" y1="263.71" y2="264.94"/>
-      <line x1="171.99" x2="169.07" y1="266.94" y2="268.44"/>
-      <line x1="173.97" x2="170.53" y1="270.18" y2="271.93"/>
-      <line x1="175.94" x2="171.99" y1="273.41" y2="275.43"/>
+      <line x1="166.08" x2="164.68" y1="559.24" y2="559.95"/>
+      <line x1="168.05" x2="166.14" y1="562.47" y2="563.45"/>
+      <line x1="170.02" x2="167.61" y1="565.71" y2="566.94"/>
+      <line x1="171.99" x2="169.07" y1="568.94" y2="570.44"/>
+      <line x1="173.97" x2="170.53" y1="572.18" y2="573.93"/>
+      <line x1="175.94" x2="171.99" y1="575.41" y2="577.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="122.98" x2="100.07" y1="267.43" y2="280.66"/>
+      <line x1="122.98" x2="100.07" y1="569.43" y2="582.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="163.66" x2="148.12" y1="254.23" y2="275.59"/>
+      <line x1="163.66" x2="148.12" y1="556.23" y2="577.59"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="175.68" x2="195.00" y1="277.78" y2="278.78"/>
+      <line x1="175.68" x2="195.00" y1="579.78" y2="580.78"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.16" x2="100.07" y1="267.43" y2="280.66"/>
+      <line x1="77.16" x2="100.07" y1="569.43" y2="582.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="100.07" x2="100.07" y1="227.77" y2="201.30"/>
+      <line x1="100.07" x2="100.07" y1="529.77" y2="503.30"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="147.65 232.68 151.54 214.23 156.30 215.77 148.60 232.99" stroke="#000000"/>
+      <polygon fill="#000000" points="147.65 534.68 151.54 516.23 156.30 517.77 148.60 534.99" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="148.12" x2="163.66" y1="232.83" y2="254.23"/>
+      <line x1="148.12" x2="163.66" y1="534.83" y2="556.23"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.16" x2="100.07" y1="241.00" y2="227.77"/>
+      <line x1="77.16" x2="100.07" y1="543.00" y2="529.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="73.48" x2="74.38" y1="266.34" y2="264.78"/>
-      <line x1="70.05" x2="71.35" y1="264.82" y2="262.57"/>
-      <line x1="66.61" x2="68.31" y1="263.30" y2="260.35"/>
-      <line x1="63.18" x2="65.28" y1="261.78" y2="258.14"/>
-      <line x1="59.75" x2="62.25" y1="260.26" y2="255.93"/>
+      <line x1="73.48" x2="74.38" y1="568.34" y2="566.78"/>
+      <line x1="70.05" x2="71.35" y1="566.82" y2="564.57"/>
+      <line x1="66.61" x2="68.31" y1="565.30" y2="562.35"/>
+      <line x1="63.18" x2="65.28" y1="563.78" y2="560.14"/>
+      <line x1="59.75" x2="62.25" y1="562.26" y2="557.93"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="54.25" x2="77.16" y1="227.77" y2="214.53"/>
+      <line x1="54.25" x2="77.16" y1="529.77" y2="516.53"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="100.07" x2="122.98" y1="227.77" y2="241.00"/>
-      <line x1="99.94" x2="117.12" y1="234.62" y2="244.54"/>
+      <line x1="100.07" x2="122.98" y1="529.77" y2="543.00"/>
+      <line x1="99.94" x2="117.12" y1="536.62" y2="546.54"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="77.16" x2="77.16" y1="241.00" y2="267.43"/>
+      <line x1="77.16" x2="77.16" y1="543.00" y2="569.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="122.98" x2="148.12" y1="241.00" y2="232.83"/>
+      <line x1="122.98" x2="148.12" y1="543.00" y2="534.83"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="163.66 253.73 190.13 251.73 190.13 256.73 163.66 254.73" stroke="#000000"/>
+      <polygon fill="#000000" points="163.66 555.73 190.13 553.73 190.13 558.73 163.66 556.73" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="102.07" x2="102.07" y1="280.66" y2="297.00"/>
-      <line x1="98.07" x2="98.07" y1="280.66" y2="297.00"/>
+      <line x1="102.07" x2="102.07" y1="582.66" y2="599.00"/>
+      <line x1="98.07" x2="98.07" y1="582.66" y2="599.00"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="77.41 267.86 55.49 282.82 52.99 278.49 76.91 266.99" stroke="#000000"/>
+      <polygon fill="#000000" points="77.41 569.86 55.49 584.82 52.99 580.49 76.91 568.99" stroke="#000000"/>
     </g>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="94.30" y="312.12">O</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="36.30" y="259.19">HO</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="196.30" y="284.15">OH</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="150.30" y="212.67">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="94.30" y="614.12">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="36.30" y="561.19">HO</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="196.30" y="586.15">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="150.30" y="514.67">OH</text>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="101.07" y1="400.00" y2="386.77"/>
+      <line x1="78.16" x2="101.07" y1="80.00" y2="66.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="100.57 386.77 98.57 360.30 103.57 360.30 101.57 386.77" stroke="#000000"/>
+      <polygon fill="#000000" points="100.57 66.77 98.57 40.30 103.57 40.30 101.57 66.77" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="78.41 426.86 56.49 441.82 53.99 437.49 77.91 425.99" stroke="#000000"/>
+      <polygon fill="#000000" points="78.41 106.86 56.49 121.82 53.99 117.49 77.91 105.99" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="164.66 412.73 191.13 410.73 191.13 415.73 164.66 413.73" stroke="#000000"/>
+      <polygon fill="#000000" points="164.66 92.73 191.13 90.73 191.13 95.73 164.66 93.73" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="78.16" y1="400.00" y2="426.43"/>
+      <line x1="78.16" x2="78.16" y1="80.00" y2="106.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="123.98" y1="400.00" y2="426.43"/>
-      <line x1="117.98" x2="117.98" y1="403.30" y2="423.12"/>
+      <line x1="123.98" x2="123.98" y1="80.00" y2="106.43"/>
+      <line x1="117.98" x2="117.98" y1="83.30" y2="103.12"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="74.48" x2="75.38" y1="425.34" y2="423.78"/>
-      <line x1="71.05" x2="72.35" y1="423.82" y2="421.57"/>
-      <line x1="67.61" x2="69.31" y1="422.30" y2="419.35"/>
-      <line x1="64.18" x2="66.28" y1="420.78" y2="417.14"/>
-      <line x1="60.75" x2="63.25" y1="419.26" y2="414.93"/>
+      <line x1="74.48" x2="75.38" y1="105.34" y2="103.78"/>
+      <line x1="71.05" x2="72.35" y1="103.82" y2="101.57"/>
+      <line x1="67.61" x2="69.31" y1="102.30" y2="99.35"/>
+      <line x1="64.18" x2="66.28" y1="100.78" y2="97.14"/>
+      <line x1="60.75" x2="63.25" y1="99.26" y2="94.93"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="164.66" x2="149.12" y1="413.23" y2="434.59"/>
+      <line x1="164.66" x2="149.12" y1="93.23" y2="114.59"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.12" x2="164.66" y1="391.83" y2="413.23"/>
+      <line x1="149.12" x2="164.66" y1="71.83" y2="93.23"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="55.25" x2="78.16" y1="386.77" y2="373.53"/>
+      <line x1="55.25" x2="78.16" y1="66.77" y2="53.53"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="151.33" x2="149.42" y1="438.13" y2="438.75"/>
-      <line x1="153.05" x2="150.20" y1="441.83" y2="442.76"/>
-      <line x1="154.78" x2="150.97" y1="445.53" y2="446.77"/>
-      <line x1="156.50" x2="151.75" y1="449.23" y2="450.77"/>
+      <line x1="151.33" x2="149.42" y1="118.13" y2="118.75"/>
+      <line x1="153.05" x2="150.20" y1="121.83" y2="122.76"/>
+      <line x1="154.78" x2="150.97" y1="125.53" y2="126.77"/>
+      <line x1="156.50" x2="151.75" y1="129.23" y2="130.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="101.07" y1="426.43" y2="439.66"/>
+      <line x1="78.16" x2="101.07" y1="106.43" y2="119.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.12" x2="123.98" y1="434.59" y2="426.43"/>
+      <line x1="149.12" x2="123.98" y1="114.59" y2="106.43"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="55.25" y1="400.00" y2="386.77"/>
+      <line x1="78.16" x2="55.25" y1="80.00" y2="66.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="103.81" x2="104.71" y1="384.15" y2="385.71"/>
-      <line x1="106.79" x2="108.09" y1="381.96" y2="384.21"/>
-      <line x1="109.78" x2="111.48" y1="379.78" y2="382.72"/>
-      <line x1="112.76" x2="114.86" y1="377.59" y2="381.23"/>
-      <line x1="115.75" x2="118.25" y1="375.41" y2="379.74"/>
+      <line x1="103.81" x2="104.71" y1="64.15" y2="65.71"/>
+      <line x1="106.79" x2="108.09" y1="61.96" y2="64.21"/>
+      <line x1="109.78" x2="111.48" y1="59.78" y2="62.72"/>
+      <line x1="112.76" x2="114.86" y1="57.59" y2="61.23"/>
+      <line x1="115.75" x2="118.25" y1="55.41" y2="59.74"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="167.08" x2="165.68" y1="416.24" y2="416.95"/>
-      <line x1="169.05" x2="167.14" y1="419.47" y2="420.45"/>
-      <line x1="171.02" x2="168.61" y1="422.71" y2="423.94"/>
-      <line x1="172.99" x2="170.07" y1="425.94" y2="427.44"/>
-      <line x1="174.97" x2="171.53" y1="429.18" y2="430.93"/>
-      <line x1="176.94" x2="172.99" y1="432.41" y2="434.43"/>
-      <line x1="178.91" x2="174.46" y1="435.65" y2="437.92"/>
+      <line x1="167.08" x2="165.68" y1="96.24" y2="96.95"/>
+      <line x1="169.05" x2="167.14" y1="99.47" y2="100.45"/>
+      <line x1="171.02" x2="168.61" y1="102.71" y2="103.94"/>
+      <line x1="172.99" x2="170.07" y1="105.94" y2="107.44"/>
+      <line x1="174.97" x2="171.53" y1="109.18" y2="110.93"/>
+      <line x1="176.94" x2="172.99" y1="112.41" y2="114.43"/>
+      <line x1="178.91" x2="174.46" y1="115.65" y2="117.92"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.43" x2="151.14" y1="387.99" y2="388.54"/>
-      <line x1="150.21" x2="152.68" y1="384.30" y2="385.10"/>
-      <line x1="150.99" x2="154.22" y1="380.61" y2="381.66"/>
-      <line x1="151.76" x2="155.76" y1="376.92" y2="378.22"/>
-      <line x1="152.54" x2="157.30" y1="373.23" y2="374.77"/>
+      <line x1="149.43" x2="151.14" y1="67.99" y2="68.54"/>
+      <line x1="150.21" x2="152.68" y1="64.30" y2="65.10"/>
+      <line x1="150.99" x2="154.22" y1="60.61" y2="61.66"/>
+      <line x1="151.76" x2="155.76" y1="56.92" y2="58.22"/>
+      <line x1="152.54" x2="157.30" y1="53.23" y2="54.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="101.07" y1="426.43" y2="439.66"/>
+      <line x1="123.98" x2="101.07" y1="106.43" y2="119.66"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="101.07" x2="123.98" y1="386.77" y2="400.00"/>
+      <line x1="101.07" x2="123.98" y1="66.77" y2="80.00"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="103.07" x2="103.07" y1="439.66" y2="456.00"/>
-      <line x1="99.07" x2="99.07" y1="439.66" y2="456.00"/>
+      <line x1="103.07" x2="103.07" y1="119.66" y2="136.00"/>
+      <line x1="99.07" x2="99.07" y1="119.66" y2="136.00"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="149.12" y1="400.00" y2="391.83"/>
+      <line x1="123.98" x2="149.12" y1="80.00" y2="71.83"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="78.16" y1="400.00" y2="373.53"/>
+      <line x1="78.16" x2="78.16" y1="80.00" y2="53.53"/>
     </g>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="95.30" y="471.12">O</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="37.30" y="418.19">HO</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="371.67">H</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="464.76">H</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="118.30" y="378.54">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="95.30" y="151.12">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="37.30" y="98.19">HO</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="51.67">H</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="144.76">H</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="118.30" y="58.54">OH</text>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="164.66" x2="149.12" y1="563.24" y2="584.61"/>
+      <line x1="164.66" x2="149.12" y1="243.24" y2="264.61"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="55.25" y1="550.01" y2="536.78"/>
+      <line x1="78.16" x2="55.25" y1="230.01" y2="216.78"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="100.57 536.78 98.57 510.32 103.57 510.32 101.57 536.78" stroke="#000000"/>
+      <polygon fill="#000000" points="100.57 216.78 98.57 190.32 103.57 190.32 101.57 216.78" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="164.66 562.74 191.13 560.74 191.13 565.74 164.66 563.74" stroke="#000000"/>
+      <polygon fill="#000000" points="164.66 242.74 191.13 240.74 191.13 245.74 164.66 243.74" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="149.12" y1="550.01" y2="541.85"/>
+      <line x1="123.98" x2="149.12" y1="230.01" y2="221.85"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.12" x2="164.66" y1="541.85" y2="563.24"/>
+      <line x1="149.12" x2="164.66" y1="221.85" y2="243.24"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="78.16" y1="550.01" y2="576.44"/>
+      <line x1="78.16" x2="78.16" y1="230.01" y2="256.44"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="55.25" x2="78.16" y1="536.78" y2="523.55"/>
+      <line x1="55.25" x2="78.16" y1="216.78" y2="203.55"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="101.07" y1="576.44" y2="589.67"/>
+      <line x1="78.16" x2="101.07" y1="256.44" y2="269.67"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="103.07" x2="103.07" y1="589.67" y2="606.00"/>
-      <line x1="99.07" x2="99.07" y1="589.67" y2="606.00"/>
+      <line x1="103.07" x2="103.07" y1="269.67" y2="286.00"/>
+      <line x1="99.07" x2="99.07" y1="269.67" y2="286.00"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="101.07" y1="576.44" y2="589.67"/>
+      <line x1="123.98" x2="101.07" y1="256.44" y2="269.67"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.12" x2="123.98" y1="584.61" y2="576.44"/>
+      <line x1="149.12" x2="123.98" y1="264.61" y2="256.44"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="78.16" y1="550.01" y2="523.55"/>
+      <line x1="78.16" x2="78.16" y1="230.01" y2="203.55"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="167.08" x2="165.68" y1="566.25" y2="566.97"/>
-      <line x1="169.05" x2="167.14" y1="569.49" y2="570.46"/>
-      <line x1="171.02" x2="168.61" y1="572.72" y2="573.96"/>
-      <line x1="172.99" x2="170.07" y1="575.96" y2="577.45"/>
-      <line x1="174.97" x2="171.53" y1="579.19" y2="580.95"/>
-      <line x1="176.94" x2="172.99" y1="582.43" y2="584.44"/>
-      <line x1="178.91" x2="174.46" y1="585.66" y2="587.93"/>
+      <line x1="167.08" x2="165.68" y1="246.25" y2="246.97"/>
+      <line x1="169.05" x2="167.14" y1="249.49" y2="250.46"/>
+      <line x1="171.02" x2="168.61" y1="252.72" y2="253.96"/>
+      <line x1="172.99" x2="170.07" y1="255.96" y2="257.45"/>
+      <line x1="174.97" x2="171.53" y1="259.19" y2="260.95"/>
+      <line x1="176.94" x2="172.99" y1="262.43" y2="264.44"/>
+      <line x1="178.91" x2="174.46" y1="265.66" y2="267.93"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="101.07" x2="123.98" y1="536.78" y2="550.01"/>
+      <line x1="101.07" x2="123.98" y1="216.78" y2="230.01"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="123.98" x2="123.98" y1="550.01" y2="576.44"/>
-      <line x1="117.98" x2="117.98" y1="553.32" y2="573.14"/>
+      <line x1="123.98" x2="123.98" y1="230.01" y2="256.44"/>
+      <line x1="117.98" x2="117.98" y1="233.32" y2="253.14"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="74.49" x2="75.28" y1="575.23" y2="573.87"/>
-      <line x1="71.08" x2="72.15" y1="573.59" y2="571.73"/>
-      <line x1="67.66" x2="69.02" y1="571.94" y2="569.59"/>
-      <line x1="64.24" x2="65.89" y1="570.30" y2="567.45"/>
-      <line x1="60.83" x2="62.76" y1="568.66" y2="565.32"/>
-      <line x1="57.41" x2="59.62" y1="567.01" y2="563.18"/>
-      <line x1="53.99" x2="56.49" y1="565.37" y2="561.04"/>
+      <line x1="74.49" x2="75.28" y1="255.23" y2="253.87"/>
+      <line x1="71.08" x2="72.15" y1="253.59" y2="251.73"/>
+      <line x1="67.66" x2="69.02" y1="251.94" y2="249.59"/>
+      <line x1="64.24" x2="65.89" y1="250.30" y2="247.45"/>
+      <line x1="60.83" x2="62.76" y1="248.66" y2="245.32"/>
+      <line x1="57.41" x2="59.62" y1="247.01" y2="243.18"/>
+      <line x1="53.99" x2="56.49" y1="245.37" y2="241.04"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <polygon fill="#000000" points="78.41 576.87 63.25 587.93 60.75 583.60 77.91 576.01" stroke="#000000"/>
+      <polygon fill="#000000" points="78.41 256.87 63.25 267.93 60.75 263.60 77.91 256.01" stroke="#000000"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="103.81" x2="104.71" y1="534.16" y2="535.72"/>
-      <line x1="106.79" x2="108.09" y1="531.98" y2="534.23"/>
-      <line x1="109.78" x2="111.48" y1="529.79" y2="532.74"/>
-      <line x1="112.76" x2="114.86" y1="527.61" y2="531.24"/>
-      <line x1="115.75" x2="118.25" y1="525.42" y2="529.75"/>
+      <line x1="103.81" x2="104.71" y1="214.16" y2="215.72"/>
+      <line x1="106.79" x2="108.09" y1="211.98" y2="214.23"/>
+      <line x1="109.78" x2="111.48" y1="209.79" y2="212.74"/>
+      <line x1="112.76" x2="114.86" y1="207.61" y2="211.24"/>
+      <line x1="115.75" x2="118.25" y1="205.42" y2="209.75"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="149.43" x2="151.14" y1="538.00" y2="538.56"/>
-      <line x1="150.21" x2="152.68" y1="534.31" y2="535.11"/>
-      <line x1="150.99" x2="154.22" y1="530.61" y2="531.66"/>
-      <line x1="151.77" x2="155.76" y1="526.92" y2="528.22"/>
-      <line x1="152.55" x2="157.30" y1="523.23" y2="524.77"/>
+      <line x1="149.43" x2="151.14" y1="218.00" y2="218.56"/>
+      <line x1="150.21" x2="152.68" y1="214.31" y2="215.11"/>
+      <line x1="150.99" x2="154.22" y1="210.61" y2="211.66"/>
+      <line x1="151.77" x2="155.76" y1="206.92" y2="208.22"/>
+      <line x1="152.55" x2="157.30" y1="203.23" y2="204.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="151.32" x2="149.42" y1="588.15" y2="588.76"/>
-      <line x1="153.05" x2="150.20" y1="591.84" y2="592.77"/>
-      <line x1="154.77" x2="150.97" y1="595.53" y2="596.77"/>
-      <line x1="156.50" x2="151.74" y1="599.23" y2="600.77"/>
+      <line x1="151.32" x2="149.42" y1="268.15" y2="268.76"/>
+      <line x1="153.05" x2="150.20" y1="271.84" y2="272.77"/>
+      <line x1="154.77" x2="150.97" y1="275.53" y2="276.77"/>
+      <line x1="156.50" x2="151.74" y1="279.23" y2="280.77"/>
     </g>
     <g stroke="#000000" stroke-width="1.0">
-      <line x1="78.16" x2="101.07" y1="550.01" y2="536.78"/>
+      <line x1="78.16" x2="101.07" y1="230.01" y2="216.78"/>
     </g>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="95.30" y="621.14">O</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="37.30" y="594.67">HO</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="614.78">OH</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="118.30" y="528.55">OH</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="521.68">OH</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="60" x="239.00" y="56.25"><tspan>illudin M</tspan></text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="213.75"><tspan>illudin S</tspan></text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="372.75"><tspan>illudin A</tspan></text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="520.75"><tspan>illudin B</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="95.30" y="301.14">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="37.30" y="274.67">HO</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="294.78">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="118.30" y="208.55">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="201.68">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="60" x="239.00" y="358.25"><tspan>illudin M</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="515.75"><tspan>illudin S</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="52.75"><tspan>illudin A</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="200.75"><tspan>illudin B</tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -363,58 +363,58 @@
     </standard>
     <molecule id="molecule79753" name="">
       <atom id="atom18696" name="C" valency="4">
-        <point x="2.041cm" y="2.407cm"/>
+        <point x="2.041cm" y="10.395cm"/>
       </atom>
       <atom id="atom3063" name="C" valency="4">
-        <point x="2.647cm" y="2.057cm"/>
+        <point x="2.647cm" y="10.045cm"/>
       </atom>
       <atom id="atom97514" name="C" valency="4">
-        <point x="3.253cm" y="2.407cm"/>
+        <point x="3.253cm" y="10.395cm"/>
       </atom>
       <atom id="atom37148" name="C" valency="4">
-        <point x="3.253cm" y="3.106cm"/>
+        <point x="3.253cm" y="11.094cm"/>
       </atom>
       <atom id="atom19684" name="C" valency="4">
-        <point x="2.041cm" y="3.106cm"/>
+        <point x="2.041cm" y="11.094cm"/>
       </atom>
       <atom id="atom90539" name="C" valency="4">
-        <point x="2.647cm" y="3.456cm"/>
+        <point x="2.647cm" y="11.444cm"/>
       </atom>
       <atom id="atom81971" name="C" valency="4">
-        <point x="3.918cm" y="2.191cm"/>
+        <point x="3.918cm" y="10.179cm"/>
       </atom>
       <atom id="atom28722" name="C" valency="4">
-        <point x="4.329cm" y="2.757cm"/>
+        <point x="4.329cm" y="10.745cm"/>
       </atom>
       <atom id="atom65022" name="C" valency="4">
-        <point x="3.918cm" y="3.322cm"/>
+        <point x="3.918cm" y="11.310cm"/>
       </atom>
       <atom id="atom14418" name="O" pos="center-first" valency="2">
-        <point x="2.647cm" y="4.156cm"/>
+        <point x="2.647cm" y="12.144cm"/>
       </atom>
       <atom id="atom49683" name="C" valency="4">
-        <point x="5.029cm" y="2.757cm"/>
+        <point x="5.029cm" y="10.745cm"/>
       </atom>
       <atom id="atom9577" name="C" valency="4">
-        <point x="4.647cm" y="3.380cm"/>
+        <point x="4.647cm" y="11.368cm"/>
       </atom>
       <atom id="atom21435" name="C" valency="4">
-        <point x="1.435cm" y="2.057cm"/>
+        <point x="1.435cm" y="10.045cm"/>
       </atom>
       <atom id="atom61586" name="C" valency="4">
-        <point x="2.041cm" y="1.707cm"/>
+        <point x="2.041cm" y="9.695cm"/>
       </atom>
       <atom id="atom84715" name="C" valency="4">
-        <point x="1.435cm" y="3.456cm"/>
+        <point x="1.435cm" y="11.444cm"/>
       </atom>
       <atom hydrogens="on" id="atom7392" name="O" pos="center-last" valency="2">
-        <point x="1.435cm" y="2.756cm"/>
+        <point x="1.435cm" y="10.744cm"/>
       </atom>
       <atom id="atom22014" name="C" valency="4">
-        <point x="2.647cm" y="1.357cm"/>
+        <point x="2.647cm" y="9.345cm"/>
       </atom>
       <atom hydrogens="on" id="atom7057" name="O" pos="center-first" valency="2">
-        <point x="4.134cm" y="1.525cm"/>
+        <point x="4.134cm" y="9.513cm"/>
       </atom>
       <bond double_ratio="0.75" end="atom49683" id="bond74070" line_width="1.0" start="atom28722" type="w1" wedge_width="5.0"/>
       <bond double_ratio="0.75" end="atom61586" id="bond41520" line_width="1.0" start="atom21435" type="n1"/>
@@ -439,61 +439,61 @@
     </molecule>
     <molecule id="molecule83067" name="">
       <atom id="atom15670" name="C" valency="4">
-        <point x="2.041cm" y="6.375cm"/>
+        <point x="2.041cm" y="14.363cm"/>
       </atom>
       <atom id="atom58124" name="C" valency="4">
-        <point x="2.647cm" y="6.025cm"/>
+        <point x="2.647cm" y="14.013cm"/>
       </atom>
       <atom id="atom81303" name="C" valency="4">
-        <point x="3.253cm" y="6.375cm"/>
+        <point x="3.253cm" y="14.363cm"/>
       </atom>
       <atom id="atom43692" name="C" valency="4">
-        <point x="3.253cm" y="7.074cm"/>
+        <point x="3.253cm" y="15.062cm"/>
       </atom>
       <atom id="atom33995" name="C" valency="4">
-        <point x="2.041cm" y="7.074cm"/>
+        <point x="2.041cm" y="15.062cm"/>
       </atom>
       <atom id="atom50275" name="C" valency="4">
-        <point x="2.647cm" y="7.424cm"/>
+        <point x="2.647cm" y="15.412cm"/>
       </atom>
       <atom id="atom37278" name="C" valency="4">
-        <point x="3.918cm" y="6.159cm"/>
+        <point x="3.918cm" y="14.147cm"/>
       </atom>
       <atom id="atom13739" name="C" valency="4">
-        <point x="4.329cm" y="6.725cm"/>
+        <point x="4.329cm" y="14.713cm"/>
       </atom>
       <atom id="atom46695" name="C" valency="4">
-        <point x="3.918cm" y="7.290cm"/>
+        <point x="3.918cm" y="15.278cm"/>
       </atom>
       <atom id="atom47548" name="O" pos="center-first" valency="2">
-        <point x="2.647cm" y="8.124cm"/>
+        <point x="2.647cm" y="16.112cm"/>
       </atom>
       <atom id="atom56421" name="C" valency="4">
-        <point x="5.029cm" y="6.725cm"/>
+        <point x="5.029cm" y="14.713cm"/>
       </atom>
       <atom id="atom99095" name="C" valency="4">
-        <point x="4.647cm" y="7.348cm"/>
+        <point x="4.647cm" y="15.336cm"/>
       </atom>
       <atom id="atom40244" name="C" valency="4">
-        <point x="1.435cm" y="6.025cm"/>
+        <point x="1.435cm" y="14.013cm"/>
       </atom>
       <atom id="atom32493" name="C" valency="4">
-        <point x="2.041cm" y="5.675cm"/>
+        <point x="2.041cm" y="13.663cm"/>
       </atom>
       <atom id="atom66358" name="C" valency="4">
-        <point x="1.435cm" y="7.424cm"/>
+        <point x="1.435cm" y="15.412cm"/>
       </atom>
       <atom hydrogens="on" id="atom59695" name="O" pos="center-last" valency="2">
-        <point x="1.435cm" y="6.724cm"/>
+        <point x="1.435cm" y="14.712cm"/>
       </atom>
       <atom id="atom62697" name="C" valency="4">
-        <point x="2.647cm" y="5.325cm"/>
+        <point x="2.647cm" y="13.313cm"/>
       </atom>
       <atom hydrogens="on" id="atom77070" name="O" pos="center-first" valency="2">
-        <point x="5.346cm" y="7.384cm"/>
+        <point x="5.346cm" y="15.372cm"/>
       </atom>
       <atom hydrogens="on" id="atom90357" name="O" pos="center-first" valency="2">
-        <point x="4.134cm" y="5.493cm"/>
+        <point x="4.134cm" y="13.481cm"/>
       </atom>
       <bond double_ratio="0.75" end="atom43692" id="bond96945" line_width="1.0" start="atom81303" type="n1"/>
       <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom43692" id="bond21768" line_width="1.0" start="atom46695" type="n2"/>
@@ -519,64 +519,64 @@
     </molecule>
     <molecule id="molecule91518" name="">
       <atom id="atom40572" name="C" valency="4">
-        <point x="2.067cm" y="10.580cm"/>
+        <point x="2.067cm" y="2.116cm"/>
       </atom>
       <atom id="atom54369" name="C" valency="4">
-        <point x="2.673cm" y="10.230cm"/>
+        <point x="2.673cm" y="1.766cm"/>
       </atom>
       <atom id="atom3019" name="C" valency="4">
-        <point x="3.279cm" y="10.580cm"/>
+        <point x="3.279cm" y="2.116cm"/>
       </atom>
       <atom id="atom88986" name="C" valency="4">
-        <point x="3.279cm" y="11.279cm"/>
+        <point x="3.279cm" y="2.815cm"/>
       </atom>
       <atom id="atom136" name="C" valency="4">
-        <point x="2.067cm" y="11.279cm"/>
+        <point x="2.067cm" y="2.815cm"/>
       </atom>
       <atom id="atom60256" name="C" valency="4">
-        <point x="2.673cm" y="11.629cm"/>
+        <point x="2.673cm" y="3.165cm"/>
       </atom>
       <atom id="atom39256" name="C" valency="4">
-        <point x="3.944cm" y="10.364cm"/>
+        <point x="3.944cm" y="1.900cm"/>
       </atom>
       <atom id="atom81830" name="C" valency="4">
-        <point x="4.355cm" y="10.930cm"/>
+        <point x="4.355cm" y="2.466cm"/>
       </atom>
       <atom id="atom40346" name="C" valency="4">
-        <point x="3.944cm" y="11.495cm"/>
+        <point x="3.944cm" y="3.031cm"/>
       </atom>
       <atom id="atom74024" name="O" pos="center-first" valency="2">
-        <point x="2.673cm" y="12.329cm"/>
+        <point x="2.673cm" y="3.865cm"/>
       </atom>
       <atom id="atom30843" name="C" valency="4">
-        <point x="5.055cm" y="10.930cm"/>
+        <point x="5.055cm" y="2.466cm"/>
       </atom>
       <atom id="atom44717" name="C" valency="4">
-        <point x="4.673cm" y="11.553cm"/>
+        <point x="4.673cm" y="3.089cm"/>
       </atom>
       <atom id="atom64875" name="C" valency="4">
-        <point x="1.461cm" y="10.230cm"/>
+        <point x="1.461cm" y="1.766cm"/>
       </atom>
       <atom id="atom82205" name="C" valency="4">
-        <point x="2.067cm" y="9.880cm"/>
+        <point x="2.067cm" y="1.416cm"/>
       </atom>
       <atom id="atom8698" name="C" valency="4">
-        <point x="1.461cm" y="11.629cm"/>
+        <point x="1.461cm" y="3.165cm"/>
       </atom>
       <atom hydrogens="on" id="atom3641" name="O" pos="center-last" valency="2">
-        <point x="1.461cm" y="10.929cm"/>
+        <point x="1.461cm" y="2.465cm"/>
       </atom>
       <atom id="atom11005" name="C" valency="4">
-        <point x="2.673cm" y="9.530cm"/>
+        <point x="2.673cm" y="1.066cm"/>
       </atom>
       <atom id="atom65306" name="H" pos="center-first" valency="1">
-        <point x="4.161cm" y="9.699cm"/>
+        <point x="4.161cm" y="1.234cm"/>
       </atom>
       <atom id="atom85062" name="H" pos="center-first" valency="1">
-        <point x="4.161cm" y="12.161cm"/>
+        <point x="4.161cm" y="3.697cm"/>
       </atom>
       <atom hydrogens="on" id="atom16965" name="O" pos="center-first" valency="2">
-        <point x="3.280cm" y="9.880cm"/>
+        <point x="3.280cm" y="1.416cm"/>
       </atom>
       <bond double_ratio="0.75" end="atom54369" id="bond52385" line_width="1.0" start="atom40572" type="n1"/>
       <bond double_ratio="0.75" end="atom11005" id="bond2978" line_width="1.0" start="atom54369" type="w1" wedge_width="5.0"/>
@@ -603,64 +603,64 @@
     </molecule>
     <molecule id="molecule20036" name="">
       <atom id="atom74650" name="C" valency="4">
-        <point x="2.067cm" y="14.548cm"/>
+        <point x="2.067cm" y="6.084cm"/>
       </atom>
       <atom id="atom88617" name="C" valency="4">
-        <point x="2.673cm" y="14.198cm"/>
+        <point x="2.673cm" y="5.734cm"/>
       </atom>
       <atom id="atom7950" name="C" valency="4">
-        <point x="3.279cm" y="14.548cm"/>
+        <point x="3.279cm" y="6.084cm"/>
       </atom>
       <atom id="atom13568" name="C" valency="4">
-        <point x="3.279cm" y="15.247cm"/>
+        <point x="3.279cm" y="6.783cm"/>
       </atom>
       <atom id="atom78520" name="C" valency="4">
-        <point x="2.067cm" y="15.247cm"/>
+        <point x="2.067cm" y="6.783cm"/>
       </atom>
       <atom id="atom82066" name="C" valency="4">
-        <point x="2.673cm" y="15.597cm"/>
+        <point x="2.673cm" y="7.133cm"/>
       </atom>
       <atom id="atom15615" name="C" valency="4">
-        <point x="3.944cm" y="14.332cm"/>
+        <point x="3.944cm" y="5.868cm"/>
       </atom>
       <atom id="atom48499" name="C" valency="4">
-        <point x="4.355cm" y="14.898cm"/>
+        <point x="4.355cm" y="6.434cm"/>
       </atom>
       <atom id="atom36510" name="C" valency="4">
-        <point x="3.944cm" y="15.463cm"/>
+        <point x="3.944cm" y="6.999cm"/>
       </atom>
       <atom id="atom99949" name="O" pos="center-first" valency="2">
-        <point x="2.673cm" y="16.297cm"/>
+        <point x="2.673cm" y="7.833cm"/>
       </atom>
       <atom id="atom5233" name="C" valency="4">
-        <point x="5.055cm" y="14.898cm"/>
+        <point x="5.055cm" y="6.434cm"/>
       </atom>
       <atom id="atom88548" name="C" valency="4">
-        <point x="4.673cm" y="15.521cm"/>
+        <point x="4.673cm" y="7.057cm"/>
       </atom>
       <atom id="atom69891" name="C" valency="4">
-        <point x="1.461cm" y="14.198cm"/>
+        <point x="1.461cm" y="5.734cm"/>
       </atom>
       <atom id="atom40809" name="C" valency="4">
-        <point x="2.067cm" y="13.848cm"/>
+        <point x="2.067cm" y="5.384cm"/>
       </atom>
       <atom hydrogens="on" id="atom95864" name="O" pos="center-last" valency="2">
-        <point x="1.461cm" y="15.597cm"/>
+        <point x="1.461cm" y="7.133cm"/>
       </atom>
       <atom id="atom86874" name="C" valency="4">
-        <point x="1.461cm" y="14.897cm"/>
+        <point x="1.461cm" y="6.433cm"/>
       </atom>
       <atom id="atom73837" name="C" valency="4">
-        <point x="2.673cm" y="13.498cm"/>
+        <point x="2.673cm" y="5.034cm"/>
       </atom>
       <atom hydrogens="on" id="atom46728" name="O" pos="center-first" valency="2">
-        <point x="4.161cm" y="16.129cm"/>
+        <point x="4.161cm" y="7.665cm"/>
       </atom>
       <atom hydrogens="on" id="atom35337" name="O" pos="center-first" valency="2">
-        <point x="3.280cm" y="13.848cm"/>
+        <point x="3.280cm" y="5.384cm"/>
       </atom>
       <atom hydrogens="on" id="atom70943" name="O" pos="center-first" valency="2">
-        <point x="4.161cm" y="13.667cm"/>
+        <point x="4.161cm" y="5.202cm"/>
       </atom>
       <bond double_ratio="0.75" end="atom36510" id="bond65327" line_width="1.0" start="atom48499" type="n1"/>
       <bond double_ratio="0.75" end="atom69891" id="bond11214" line_width="1.0" start="atom74650" type="n1"/>
@@ -685,9 +685,9 @@
       <bond double_ratio="0.75" end="atom46728" id="bond95220" line_width="1.0" start="atom36510" type="h1" wedge_width="5.0"/>
       <bond double_ratio="0.75" end="atom88617" id="bond47677" line_width="1.0" start="atom74650" type="n1"/>
     </molecule>
-    <text id="text77281"><point x="6.348cm" y="1.349cm"/><ftext>illudin M</ftext></text>
-    <text id="text53865"><point x="6.348cm" y="5.515cm"/><ftext>illudin S</ftext></text>
-    <text id="text24206"><point x="6.348cm" y="9.721cm"/><ftext>illudin A</ftext></text>
-    <text id="text73797"><point x="6.348cm" y="13.635cm"/><ftext>illudin B</ftext></text>
+    <text id="text77281"><point x="6.348cm" y="9.337cm"/><ftext>illudin M</ftext></text>
+    <text id="text53865"><point x="6.348cm" y="13.503cm"/><ftext>illudin S</ftext></text>
+    <text id="text24206"><point x="6.348cm" y="1.256cm"/><ftext>illudin A</ftext></text>
+    <text id="text73797"><point x="6.348cm" y="5.171cm"/><ftext>illudin B</ftext></text>
   </cdml>
 </svg>
