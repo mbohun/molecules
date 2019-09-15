@@ -1,0 +1,139 @@
+<?xml version="1.0" ?><svg height="297.000000mm" version="1.0" viewBox="0 0 793 1122" width="210.000000mm" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Helvetica" font-size="12pt" stroke-linecap="round">
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="340" x="10.00" y="20.25"><tspan>https://www.ncbi.nlm.nih.gov/pubmed/24228585</tspan></text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="116.17" x2="139.09" y1="153.43" y2="166.66"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="162.00" x2="139.09" y1="153.43" y2="166.66"/>
+      <line x1="156.13" x2="138.95" y1="149.89" y2="159.81"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="116.17" x2="116.17" y1="127.00" y2="153.43"/>
+      <line x1="122.17" x2="122.17" y1="130.30" y2="150.12"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="116.17" x2="100.00" y1="153.43" y2="162.76"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="162.00" x2="184.92" y1="127.00" y2="113.77"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="182.92" x2="182.92" y1="113.77" y2="94.00"/>
+      <line x1="186.92" x2="186.92" y1="113.77" y2="94.00"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="184.92" x2="201.00" y1="113.77" y2="123.06"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="139.09" x2="139.09" y1="113.76" y2="87.30"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="93.25" x2="93.25" y1="174.00" y2="193.12"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="162.00" x2="162.00" y1="127.00" y2="153.43"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="139.09" x2="162.00" y1="113.76" y2="127.00"/>
+      <line x1="138.95" x2="156.13" y1="120.61" y2="130.54"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="162.00" x2="178.00" y1="153.43" y2="162.66"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="116.17" x2="139.09" y1="127.00" y2="113.76"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="179.30" y="92.31">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="202.30" y="132.01">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="179.30" y="171.65">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="87.30" y="171.65">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="8pt" textLength="224" x="454.00" y="58.75"><tspan>2-hydroxy-4-methoxy-6-methylbenzoic acid (1),
+orsellinic acid (2),
+melleolide (3),
+ergosterol (4),
+genistein (5),
+daidzein (6),
+daucosterol (7),
+genistin (8),
+uracil (9)
+D-mannitol (10)</tspan></text>
+  </g>
+  <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
+    <info>
+      <author_program version="0.14.0-pre2">BKChem</author_program>
+    </info>
+    <paper crop_margin="10" crop_svg="0" orientation="portrait" replace_minus="0" type="A4" use_real_minus="0"/>
+    <viewport viewport="0.000000 0.000000 640.000000 480.000000"/>
+    <standard area_color="" font_family="helvetica" font_size="12" line_color="#000" line_width="1px" paper_crop_margin="10" paper_crop_svg="0" paper_orientation="portrait" paper_type="A4">
+      <bond double-ratio="0.75" length="0.7cm" wedge-width="5px" width="6px"/>
+      <arrow length="1.6cm"/>
+      <atom show_hydrogens="0"/>
+    </standard>
+    <text id="text87193"><point x="0.344cm" y="0.397cm"/><ftext>https://www.ncbi.nlm.nih.gov/pubmed/24228585</ftext></text>
+    <molecule id="molecule10442" name="">
+      <atom id="atom42652" name="C" valency="4">
+        <point x="3.073cm" y="3.359cm"/>
+      </atom>
+      <atom id="atom60472" name="C" valency="4">
+        <point x="3.679cm" y="3.009cm"/>
+      </atom>
+      <atom id="atom33530" name="C" valency="4">
+        <point x="4.285cm" y="3.359cm"/>
+      </atom>
+      <atom id="atom1711" name="C" valency="4">
+        <point x="4.285cm" y="4.058cm"/>
+      </atom>
+      <atom id="atom78244" name="C" valency="4">
+        <point x="3.073cm" y="4.058cm"/>
+      </atom>
+      <atom id="atom81593" name="C" valency="4">
+        <point x="3.679cm" y="4.408cm"/>
+      </atom>
+      <atom id="atom29867" name="C" valency="4">
+        <point x="4.891cm" y="3.009cm"/>
+      </atom>
+      <atom id="atom81976" name="O" pos="center-first" valency="2">
+        <point x="4.891cm" y="2.309cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom59647" name="O" pos="center-first" valency="2">
+        <point x="5.497cm" y="3.359cm"/>
+      </atom>
+      <atom id="atom39077" name="C" valency="4">
+        <point x="3.679cm" y="2.309cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom24272" name="O" pos="center-first" valency="2">
+        <point x="4.891cm" y="4.408cm"/>
+      </atom>
+      <atom id="atom72733" name="O" pos="center-last" valency="2">
+        <point x="2.467cm" y="4.408cm"/>
+      </atom>
+      <atom id="atom14996" name="C" valency="4">
+        <point x="2.466cm" y="5.108cm"/>
+      </atom>
+      <bond double_ratio="0.75" end="atom81593" id="bond94204" line_width="1.0" start="atom78244" type="n1"/>
+      <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom81593" id="bond28629" line_width="1.0" start="atom1711" type="n2"/>
+      <bond bond_width="6.0" center="no" double_ratio="0.75" end="atom78244" id="bond2198" line_width="1.0" start="atom42652" type="n2"/>
+      <bond double_ratio="0.75" end="atom72733" id="bond56313" line_width="1.0" start="atom78244" type="n1"/>
+      <bond double_ratio="0.75" end="atom29867" id="bond87219" line_width="1.0" start="atom33530" type="n1"/>
+      <bond bond_width="6.0" center="yes" double_ratio="0.75" end="atom81976" id="bond87959" line_width="1.0" start="atom29867" type="n2"/>
+      <bond double_ratio="0.75" end="atom59647" id="bond46184" line_width="1.0" start="atom29867" type="n1"/>
+      <bond double_ratio="0.75" end="atom39077" id="bond26018" line_width="1.0" start="atom60472" type="n1"/>
+      <bond double_ratio="0.75" end="atom14996" id="bond81358" line_width="1.0" start="atom72733" type="n1"/>
+      <bond double_ratio="0.75" end="atom1711" id="bond18966" line_width="1.0" start="atom33530" type="n1"/>
+      <bond bond_width="-6.0" center="no" double_ratio="0.75" end="atom33530" id="bond15101" line_width="1.0" start="atom60472" type="n2"/>
+      <bond double_ratio="0.75" end="atom24272" id="bond54178" line_width="1.0" start="atom1711" type="n1"/>
+      <bond double_ratio="0.75" end="atom60472" id="bond94314" line_width="1.0" start="atom42652" type="n1"/>
+    </molecule>
+    <text id="text21778"><font family="helvetica" size="8"/><point x="12.062cm" y="0.503cm"/><ftext>2-hydroxy-4-methoxy-6-methylbenzoic acid (1),
+orsellinic acid (2),
+melleolide (3),
+ergosterol (4),
+genistein (5),
+daidzein (6),
+daucosterol (7),
+genistin (8),
+uracil (9)
+D-mannitol (10)</ftext></text>
+  </cdml>
+</svg>
