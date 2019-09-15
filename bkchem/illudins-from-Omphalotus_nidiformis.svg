@@ -75,7 +75,7 @@
     </g>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="94.30" y="162.13">O</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="36.30" y="109.19">HO</text>
-    <text fill="#000000" font-family="helvetica" font-size="12pt" x="149.30" y="62.66">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" x="150.30" y="62.66">OH</text>
     <g stroke="#000000" stroke-width="1.0">
       <line x1="122.98" x2="122.98" y1="241.00" y2="267.43"/>
     </g>
@@ -345,6 +345,10 @@
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="614.78">OH</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="118.30" y="528.55">OH</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="151.30" y="521.68">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="60" x="239.00" y="56.25"><tspan>illudin M</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="213.75"><tspan>illudin S</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="372.75"><tspan>illudin A</tspan></text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="58" x="239.00" y="520.75"><tspan>illudin B</tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -681,5 +685,9 @@
       <bond double_ratio="0.75" end="atom46728" id="bond95220" line_width="1.0" start="atom36510" type="h1" wedge_width="5.0"/>
       <bond double_ratio="0.75" end="atom88617" id="bond47677" line_width="1.0" start="atom74650" type="n1"/>
     </molecule>
+    <text id="text77281"><point x="6.348cm" y="1.349cm"/><ftext>illudin M</ftext></text>
+    <text id="text53865"><point x="6.348cm" y="5.515cm"/><ftext>illudin S</ftext></text>
+    <text id="text24206"><point x="6.348cm" y="9.721cm"/><ftext>illudin A</ftext></text>
+    <text id="text73797"><point x="6.348cm" y="13.635cm"/><ftext>illudin B</ftext></text>
   </cdml>
 </svg>
