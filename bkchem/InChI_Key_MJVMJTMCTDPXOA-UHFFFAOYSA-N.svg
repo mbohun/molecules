@@ -301,6 +301,7 @@
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="146.30" y="695.75">OH</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="399.30" y="501.09">OH</text>
     <text fill="#000000" font-family="helvetica" font-size="12pt" x="425.30" y="461.19">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="365" x="11.00" y="23.25"><tspan>InChI Key: MJVMJTMCTDPXOA-UHFFFAOYSA-N</tspan></text>
   </g>
   <cdml version="0.16" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
     <info>
@@ -648,5 +649,6 @@
       <bond double_ratio="0.75" end="atom40147" id="bond17280" line_width="1.0" start="atom20584" type="n1"/>
       <bond double_ratio="0.75" end="atom68635" id="bond89640" line_width="1.0" start="atom36415" type="n1"/>
     </molecule>
+    <text id="text66017"><point x="0.317cm" y="0.476cm"/><ftext>InChI Key: MJVMJTMCTDPXOA-UHFFFAOYSA-N</ftext></text>
   </cdml>
 </svg>
